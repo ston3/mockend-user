@@ -1,2 +1,2 @@
 # mockend-user
-Mockend users data fake
+To get users fake data for dev testing
